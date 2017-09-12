@@ -1,4 +1,4 @@
-# Chords (Akordy)
+# Chords (Akordy) _alpha_
 A game for practising Czech music chord terminology (in Czech, in case of interest could be ) / Hra na procvičování českého názvosloví akordů primárně určená pro české, moravské a slezské konzervatoře.
 
 🇨🇿
