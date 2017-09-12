@@ -1,0 +1,16 @@
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\MainWindow.baml
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\MainWindow.g.cs
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\App.g.cs
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.csproj.GenerateResource.Cache
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\bin\Debug\Chords.exe.config
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\bin\Debug\Chords.exe
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\bin\Debug\Chords.pdb
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\Chords_MarkupCompile.cache
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.g.resources
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.Properties.Resources.resources
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.exe
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.pdb
+W:\Visual Studio 2013\Projects\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.csprojResolveAssemblyReference.cache
+W:\MFF\zapoctak_LS15\Chords_KlaraScholleova\HokusyPokusy\HokusyPokusy\bin\Debug\Chords.exe.config
+W:\MFF\zapoctak_LS15\Chords_KlaraScholleova\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.exe
+W:\MFF\zapoctak_LS15\Chords_KlaraScholleova\HokusyPokusy\HokusyPokusy\obj\Debug\Chords.pdb
