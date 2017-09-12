@@ -14,4 +14,4 @@ Akordy se dle zadání vyplňují klikáním do notové osnovy. Předznamenání
 _Zobrazování akordů a not._ Rozmístění jednotlivých not je aktuálně "napevno" a navíc nejsou implementovány pomocné linky, takže typograficky to není ideální. Zároveň, některá zadání jsou "celkem" drsná (objevují se i dvoukřížky, dvoubéčka apod.; ovšem jen v "rozumných" tóninách od 7♭ do 7♯). Ale to by nemělo vadit :)
 
 ## Poznámky
-Hru jsme vytvořili s mým bratrem [Markem](http://artax.karlin.mff.cuni.cz/~schom7bm/). Byla vytvořena jako můj zápočtový program do předmětu Programování II na [matfyzu]](http://mff.cuni.cz) (Matematicko-fyzikální fakultě Univerzity Karlovy, jiný matfyz přece v Česku není), především ku potřebě mých spolužáků na [Konzervatoři Pardubice](http://www.konzervatorpardubice.eu).
+Hru jsme vytvořili s mým bratrem [Markem](http://artax.karlin.mff.cuni.cz/~schom7bm/). Byla vytvořena jako můj zápočtový program do předmětu Programování II na [matfyzu](http://mff.cuni.cz) (Matematicko-fyzikální fakultě Univerzity Karlovy, jiný matfyz přece v Česku není), především ku potřebě mých spolužáků na [Konzervatoři Pardubice](http://www.konzervatorpardubice.eu).
