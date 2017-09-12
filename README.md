@@ -3,7 +3,7 @@ A game for practising Czech music chord terminology (in Czech, in case of intere
 
 🇨🇿
 ## Instalace
-Pro Windows stačí stáhnout nejnovější release a spustit, hra nevyžaduje instalaci. Na ostatní platformy je třeba stáhnout celý repozitář a ideálně skrze Visual Studio hru nejdříve zkompilovat (případně napište na [klara@ksch.cz](mailto:klara@ksch.cz) a já zkusím pomoci, ale předpokládám, že na většině konzervatoří v Česku budou Windows :). Zároveň, Visual Studio potřeba není, ale musím někdy projektem projít a "očistit" jej pouze na potřebné soubory).
+Pro Windows stačí stáhnout [nejnovější release a spustit](https://github.com/klarasch/chords/releases/download/v0.2-alpha.1/Chords.exe), hra nevyžaduje instalaci. Na ostatní platformy je třeba stáhnout celý repozitář a ideálně skrze Visual Studio hru nejdříve zkompilovat (případně napište na [klara@ksch.cz](mailto:klara@ksch.cz) a já zkusím pomoci, ale předpokládám, že na většině konzervatoří v Česku budou Windows :). Zároveň, Visual Studio potřeba není, ale musím někdy projektem projít a "očistit" jej pouze na potřebné soubory).
 
 ## Návod ke hře
 Pro spuštění stačí otevřít soubor `chords.exe`. Je na výběr ze dvou úrovní – pro studenta 1. ročníku, která obsahuje zadání jen s obraty kvintakordů, a pro studenta 2. ročníku, která obsahuje i obraty různých druhů septakordů.
